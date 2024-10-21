@@ -137,9 +137,11 @@ Hybrid model class and a train it on for right stances and 3 features and on for
 Two final notebooks for training hybrid model on all data with/without statics for binary classification and severity Detection. 
 
 The propesd methodology:
+
 ![image](https://github.com/user-attachments/assets/2bb69869-4c9f-48d9-a0e5-c7c1beed2461)
 
 The model architecture for Severity Detection Multiclass Classification
+
 ![image](https://github.com/user-attachments/assets/557b291e-39f6-4902-a184-129fec8ae94d)
 
 ### [6.Explinable Models](https://github.com/nemat-al/Parkinson-Disease/tree/main/Explaining)
