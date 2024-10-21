@@ -164,6 +164,9 @@ This research explores Parkinson's disease symptoms and their impact on gait ana
 
 ----
 References:
+
 [1] Abdulhay E. et al. Gait and tremor investigation using machine learning techniques for the diagnosis of Parkinson disease // Future Generation
 Computer Systems. Elsevier BV, 2018 . Vol. 83 . P. 366 373
-[] G. Gilmore, A. Gouelle, M. B. Adamson, M. Pieterman, and M. Jog, “Forward and backward walking in Parkinson disease: A factor analysis,” Gait & Posture, vol. 74, pp. 14–19, Oct. 2019, doi: 10.1016/J.GAITPOST.2019.08.005.
+
+
+G. Gilmore, A. Gouelle, M. B. Adamson, M. Pieterman, and M. Jog, “Forward and backward walking in Parkinson disease: A factor analysis,” Gait & Posture, vol. 74, pp. 14–19, Oct. 2019, doi: 10.1016/J.GAITPOST.2019.08.005.
